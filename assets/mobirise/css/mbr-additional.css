@@ -1354,6 +1354,16 @@ a {
   color: #3b7ea1;
   font-weight: 700;
   text-align: center;
+  line-height: 1.2;
+  white-space: nowrap;
+  display: block;
+  max-width: 100% !important;
+  text-overflow: ellipsis;
+}
+@media (max-width: 767px) {
+  .cid-uLhe5Ef88x .tieudechinh {
+    font-size: 1.6rem !important;
+  }
 }
 .cid-uLhe5Ef88x .display-1 {
   font-family: 'Inter Tight', sans-serif;
