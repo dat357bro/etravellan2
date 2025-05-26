@@ -64,7 +64,7 @@
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "2tx2hkyb6x",
+    "mbrsiteDomain": "rz5esnwxsl",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -4301,10 +4301,9 @@
       "settings": {
         "title": "Ehumahtravel",
         "order": "1",
-        "header_custom": "<meta name=\"robots\" content=\"index, follow\">",
+        "header_custom": "<meta name=\"robots\" content=\"index, follow\">\n<meta property=\"og:image\" content=\"https://www.ehumahtravel.com/Ehumahtravel.html/assets/images/Ehumahtravel-meta.jpeg\">",
         "footer_custom": "",
-        "meta_descr": "Ehumahtravel du lịch nghỉ dưỡng tại Ninh Thuận",
-        "meta_image": "@PROJECT_PATH@/assets/images/z6576991615638-1ca5bde6e823e9f5dd70727cd336ae20.jpg-1489x1985.jpeg"
+        "meta_descr": "Ehumahtravel du lịch nghỉ dưỡng tại Ninh Thuận"
       },
       "components": [
         {
@@ -5055,11 +5054,11 @@
           "_cid": "uL9GJ9RcQX",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
+          "_anchor": "menu02-28",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu02-28"
+          "_params": {}
         }
       ]
     }
