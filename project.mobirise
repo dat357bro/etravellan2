@@ -64,7 +64,7 @@
     "versionPublish": "6.0.1",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "tvfxkrkdih",
+    "mbrsiteDomain": "no7zxa4jlx",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -73,7 +73,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-white-label": true,
-    "witsec-jquery": false
+    "witsec-jquery": false,
+    "global_header_custom": "\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-W3RSMJFH1N\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-W3RSMJFH1N');\n</script>"
   },
   "pages": {
     "index.html": {
