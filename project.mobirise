@@ -5065,7 +5065,8 @@
     "ke-hoach-marketing-360.html": {
       "settings": {
         "title": "Kế hoạch Marketing 360",
-        "order": "1"
+        "order": "1",
+        "meta_image": "@PROJECT_PATH@/assets/images/cliffs-7264242-1920.jpg-1-852x567.jpeg"
       },
       "components": [
         {
